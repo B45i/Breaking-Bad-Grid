@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ag-grid-test"
+    }
+  },
+  "defaultProject": "ag-grid-test",
+  "cli": {
+    "analytics": false
+  }
 }
