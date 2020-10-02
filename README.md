@@ -1,5 +1,6 @@
 # Breaking Bad Grid
 
+* [Live](https://breaking-bad-grid.vercel.app/) 
 * project for testing AG-Grid's [ServerSide Row model](https://www.ag-grid.com/javascript-grid-server-side-model/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
