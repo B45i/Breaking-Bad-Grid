@@ -18,8 +18,6 @@ export class AppComponent implements OnInit {
   constructor(private bbService: BreakingBadService) {}
 
   ngOnInit(): void {
-    this.bbService.getCharacters().subscribe((x) => console.log(x));
-
     this.agOptions = this.initGrid();
   }
 

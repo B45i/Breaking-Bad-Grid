@@ -1,2 +1,6 @@
 @import "../node_modules/ag-grid-community/dist/styles/ag-grid.css";
-@import "../node_modules/ag-grid-community/dist/styles/ag-theme-alpine.css";
+@import "../node_modules/ag-grid-community/dist/styles/ag-theme-material.css";
+
+body {
+    background-color: #222628;
+}
